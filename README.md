@@ -16,3 +16,20 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
+
+## Starting Point of App.
+
+![Starting Point](https://github.com/Volpone24/Weather-App-using-Flutter/blob/master/images/Capture1.JPG)
+
+
+This is how the app looks when you open it. To change the default city, I will discuss it later.
+
+When you click on the search icon on the top right corner, you will enter a new page. It should look like this.
+
+![Search City](https://github.com/Volpone24/Weather-App-using-Flutter/blob/master/images/Capture2.JPG)
+
+After you enter the city, you will pop out from the current page nad see the update weather of the city.
+![City](https://github.com/Volpone24/Weather-App-using-Flutter/blob/master/images/Capture3.JPG)      ![City](https://github.com/Volpone24/Weather-App-using-Flutter/blob/master/images/Capture4.JPG)
+
+
+ 
